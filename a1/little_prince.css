@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 35px 0;
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.page {
+    width: 315px;
+    margin: 0 auto;
+}
+
+.book-cover {
+    display: block;
+    width: 315px;
+    height: 275px;
+    object-fit: cover;
+}
+
+p {
+    font-size: 13px;
+    line-height: 1.02;
+    color: black;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+    font-size: 13px;
+}
